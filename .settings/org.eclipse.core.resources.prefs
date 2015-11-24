@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//dstc4_traindev/scripts/LSTMWithBOW.py=utf-8
+encoding//dstc4_traindev/scripts/NaiveEnsembler.py=utf-8
+encoding//dstc4_traindev/scripts/NaiveEnsemblerNBest.py=utf-8

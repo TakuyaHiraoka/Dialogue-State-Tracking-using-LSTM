@@ -1,0 +1,56 @@
+
+1.実験用プログラム作成
+1.1. *.py(e.g. baseline.py)が含まれているscriptsを、dstc4_traindev以下のscriptフォルダに統合
+1.2. baselineを用いた予測とその評価(i.e., 5.2.中のコマンド)を行うmain.pyを導入
+1.3. main.pyから引数を直接引き渡せるようにbaselin.pyとscore.py中の以下の箇所を修正：
+    args = parser.parse_args()
+    ↓
+    args = parser.parse_args(argv)
+#コマンドラインから呼び出したい場合は1.3.の修正箇所戻す
+
+2.LSTMベースのトラッカーの推定
+2.1.pybrain-v3.3をインスコ
+
+3.1 DeprecationWarning対処
+.scikit-learn version 1.5以上をインスコ
+
+参考文献：
+
+1.日本語RNN解説「ニューラルネットワークで時系列データの予測を行う」
+http://qiita.com/icoxfog417/items/2791ee878deee0d0fd9c
+
+2.pybrainのLSTMの学習＆予測のクイックスタートガイド
+http://stackoverflow.com/questions/25967922/pybrain-time-series-prediction-using-lstm-recurrent-nets
+
+3.pybrainのRNNのミニバッチ学習のプログラム例：
+http://pastebin.com/WVBDRwNG
+
+4.RNNで対話状態追跡してる2014年の論文
+http://www.sigdial.org/workshops/sigdial2014/proceedings/pdf/W14-4340.pdf
+
+5.DNNで対話状態追跡してる論文RNNの（中間層はこれと同じ）
+http://www.aclweb.org/anthology/W13-4073
+
+6.加重減衰パラメータを参考にした論文0.01s
+http://www.ipsj.or.jp/award/9faeag0000004f1r-att/RF-005.pdf
+
+7.文の分散表現
+http://www.socher.org/
+
+8.word2vec, utiizing Wordnet
+http://tkdmah.hatenablog.com/entry/2013/01/22/233919
+
+9.NLTK, Wordnet python library etc
+NLTK
+http://www.nltk.org/book/ch05.html
+http://www.nltk.org/api/nltk.stem.html
+Wordnet API in NLTK
+http://www.nltk.org/howto/wordnet.html
+
+10. sentence2vec (a.k.a. doc2vec) references
+quick start
+http://rare-technologies.com/doc2vec-tutorial/
+other reference
+https://radimrehurek.com/gensim/models/doc2vec.html#blog
+Orijinal paper
+http://arxiv.org/pdf/1405.4053v2.pdf

@@ -1,0 +1,5163 @@
+{
+    "guide_id": "SG1", 
+    "session_date": "2012-03-21", 
+    "session_id": 20, 
+    "session_time": "17:42:25", 
+    "tourist_age": 34, 
+    "tourist_id": "PH_20", 
+    "tourist_sex": "M", 
+    "tourist_visited_sg": "N", 
+    "utterances": [
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OPENING"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Hi, good afternoon.", 
+            "utter_index": 0
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OPENING"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Hi, good afternoon.", 
+            "utter_index": 1
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OPENING"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh this is tour guide %uh number one And my name is Lynnette.", 
+            "utter_index": 2
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OPENING"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "And how do I address you?", 
+            "utter_index": 3
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OPENING"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "I'm %uh participant number twenty and my name is %uh John.", 
+            "utter_index": 4
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OPENING"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "John?", 
+            "utter_index": 5
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OPENING"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Hi John.", 
+            "utter_index": 6
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OPENING"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yup.", 
+            "utter_index": 7
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OPENING"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "I'm good.", 
+            "utter_index": 8
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OPENING"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay.", 
+            "utter_index": 9
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OPENING"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So %uh hi Lynnette.", 
+            "utter_index": 10
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OPENING"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Hi, yes and how can I help you?", 
+            "utter_index": 11
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "ITINERARY"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yes, %uh I would like to inquire about %uh travelling to Singapore for about two to three days with my wife.", 
+            "utter_index": 12
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "ITINERARY"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "I need to %uh, you know, take her on a short vacation.", 
+            "utter_index": 13
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OTHER"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Is this your first trip to Singapore?", 
+            "utter_index": 14
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OTHER"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yes, this will be my first trip to Singapore and I'm %uh excited to go there.", 
+            "utter_index": 15
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So first things first, I %uh want to %uh check on the budget friendly hotels.", 
+            "utter_index": 16
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So if you can recommend some hotels that I can afford.", 
+            "utter_index": 17
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh what would be %uh the price range that you are talking about?", 
+            "utter_index": 18
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, maybe I can give you %uh indication of the hotel prices here.", 
+            "utter_index": 19
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "It's %uh let say about a hundred fifty right to two hundred dollars or two hundred to three hundred dollars budget range.", 
+            "utter_index": 20
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yes, maybe %uh if I would be staying for around two to three days.", 
+            "utter_index": 21
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes, we have %uh- so which price range are we talking about?", 
+            "utter_index": 22
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "The hundred %uh and fifty to two hundred or slightly above two hundred to three hundred price range?", 
+            "utter_index": 23
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yes, something around a hundred to one hundred fifty a day.", 
+            "utter_index": 24
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay.", 
+            "utter_index": 25
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "QST", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "ANS"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay %uh and would you like something right in the heart of the shopping belt or you don't or you prefer something in %uh the residential area in Singapore?", 
+            "utter_index": 26
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "QST", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "ANS"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "I would prefer something like in the commercial district where I can walk around and %uh take a look at the sceneries and, you know.", 
+            "utter_index": 27
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "QST", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "ANS"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "%Uh just walking from one place to another would be good.", 
+            "utter_index": 28
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "QST", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "ANS"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "And, yup.", 
+            "utter_index": 29
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "QST", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "ANS"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay.", 
+            "utter_index": 30
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "QST", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "ANS"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Walking from one place to another?", 
+            "utter_index": 31
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "QST", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "ANS"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yah.", 
+            "utter_index": 32
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "QST", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "ANS"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay.", 
+            "utter_index": 33
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "QST", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "ANS"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "So commercial district meaning %um more towards the shopping belt rather than the business district, right?", 
+            "utter_index": 34
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "QST", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "ANS"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yah.", 
+            "utter_index": 35
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "QST", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "ANS"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay.", 
+            "utter_index": 36
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Um there are some interesting hotels there.", 
+            "utter_index": 37
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, %uh one of the hotels that I would be able to recommend you %uh would be the Rendezvous Hotel.", 
+            "utter_index": 38
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Rendezvous Hotel.", 
+            "utter_index": 39
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yah.", 
+            "utter_index": 40
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So how much %uh they %uh", 
+            "utter_index": 41
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "What is the price for this hotel, is it?", 
+            "utter_index": 42
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yah, how much are the %uh-", 
+            "utter_index": 43
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, we are looking approximately about just slightly over two hundred dollars.", 
+            "utter_index": 44
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "The prices for- %Hm that's quite expensive, but I can %uh consider that one.", 
+            "utter_index": 45
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Rendezvous Hotel.", 
+            "utter_index": 46
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yah, because it's just walking to most of the %uh places.", 
+            "utter_index": 47
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So it's in the heart of the Singapore Commercial District?", 
+            "utter_index": 48
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes, it is.", 
+            "utter_index": 49
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Otherwise there is another hotel %uh call the Grand Park Hotel.", 
+            "utter_index": 50
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Okay.", 
+            "utter_index": 51
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Grand Park Hotel, so I can also check on this one.", 
+            "utter_index": 52
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "What are the rates for the Grand Park Hotel?", 
+            "utter_index": 53
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "I've s~ Sorry, the price range is around two hundred.", 
+            "utter_index": 54
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yah.", 
+            "utter_index": 55
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Two hun~", 
+            "utter_index": 56
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Slightly below two hundred a night.", 
+            "utter_index": 57
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Two hundred a day?", 
+            "utter_index": 58
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh yes.", 
+            "utter_index": 59
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So that would- this will be there %uh regular suites.", 
+            "utter_index": 60
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh yes, %uh a standard room.", 
+            "utter_index": 61
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Alright.", 
+            "utter_index": 62
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "A standard room %uh for one room.", 
+            "utter_index": 63
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Alright, yah, so this is the price range %uh for the hotel.", 
+            "utter_index": 64
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Alright.", 
+            "utter_index": 65
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "FOOD", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "And if there is a nearby restaurants within that hotel, so if you could recommend some good restaurants like selling Singaporean delicacies.", 
+            "utter_index": 66
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Local Singaporean delicacy so maybe we could some out of those dishes.", 
+            "utter_index": 67
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, %uh in this hotel itself, %uh they have a restaurant.", 
+            "utter_index": 68
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, they have a restaurant in this particular hotel.", 
+            "utter_index": 69
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "And yes they do serve some of our cuisine.", 
+            "utter_index": 70
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "FOOD", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Otherwise I would also recommend to you %uh just about ten minutes' walk from the Rendezvous hotel, %um you'll be able to get to One Fullerton.", 
+            "utter_index": 71
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "One Fullerton.", 
+            "utter_index": 72
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes and there is a restaurant there that serve a unique Singapore %uh food.", 
+            "utter_index": 73
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "One Fullerton Hotel, alright.", 
+            "utter_index": 74
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So %uh maybe I can write that down and check on that.", 
+            "utter_index": 75
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh yes, it's called One Fullerton.", 
+            "utter_index": 76
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Alright.", 
+            "utter_index": 77
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "FOOD", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yah, so %uh there is a seafood restaurant", 
+            "utter_index": 78
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "and of course a lot of people, including the locals, like to eat %uh chili crab.", 
+            "utter_index": 79
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Chili crab.", 
+            "utter_index": 80
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes.", 
+            "utter_index": 81
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Alright.", 
+            "utter_index": 82
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ACK", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "FOOD", 
+                "tourist_act": "REQ_ALT"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "What are the other delicacies %uh Singapore is known for?", 
+            "utter_index": 83
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ACK", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "REQ_ALT"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "except for the chili crabs", 
+            "utter_index": 84
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ACK", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "REQ_ALT"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Oh what other delicacy, is it?", 
+            "utter_index": 85
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ACK", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "REQ_ALT"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yah.", 
+            "utter_index": 86
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "FOOD", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, because we are multiracial here so we do have like the Malay cuisine, %uh the Chinese, the Indian.", 
+            "utter_index": 87
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "FOOD", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "And we have another %uh food that is also a favourite of a lot people is called peranakan food.", 
+            "utter_index": 88
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "What's that again, peranakan?", 
+            "utter_index": 89
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Food.", 
+            "utter_index": 90
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Food.", 
+            "utter_index": 91
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes.", 
+            "utter_index": 92
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Alright.", 
+            "utter_index": 93
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "It's in-short it will be a Chinese style of cooking %uh but using %uh more Malay %uh spices.", 
+            "utter_index": 94
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "FOOD", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So do you like spicy food or most Singaporean foods are spicy?", 
+            "utter_index": 95
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh I wouldn't say most Singapore %uh food are spicy it's these are just different cuisines %uh that we have in Singapore.", 
+            "utter_index": 96
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "So yes, but yes a lot of %uh Singapore people like to eat spicy food.", 
+            "utter_index": 97
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Alright.", 
+            "utter_index": 98
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Alright.", 
+            "utter_index": 99
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "And going back to the hotel, %uh if you could recommend some, you know, local attractions like park %uh nearby zoos, museums, where people, you know, usually go from just walking around or like- I know Singapore is known for their %uh the trains.", 
+            "utter_index": 100
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes.", 
+            "utter_index": 101
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So if you have nearby %uh attractions like what I mention earlier, is there any nearby parks, any zoos?", 
+            "utter_index": 102
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "To-", 
+            "utter_index": 103
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "From the hotel, yah.", 
+            "utter_index": 104
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "The zoo.", 
+            "utter_index": 105
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "From the-", 
+            "utter_index": 106
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "From the hotel?", 
+            "utter_index": 107
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yah, from Rendezvous Hotel.", 
+            "utter_index": 108
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay.", 
+            "utter_index": 109
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "From Rendezvous Hotel, you can %uh walk to- or I would say either you walk or you take this MRT train from %uh City Hall and you alight at Raffles Place MRT.", 
+            "utter_index": 110
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "You will be alighting and walking just above five minutes to the %uh Marina Bay.", 
+            "utter_index": 111
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Okay, so what can I see on %uh Marina Bay?", 
+            "utter_index": 112
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, it's a beautiful bay.", 
+            "utter_index": 113
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Um you will be able to see %uh the bay front which is very pretty.", 
+            "utter_index": 114
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh and of course the Marina Bay Sands Resort, as well as the icon of Singapore, we call it the Merlion Park.", 
+            "utter_index": 115
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh the Merlion is the %uh ti~ %uh lion head with a fish tail.", 
+            "utter_index": 116
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, so that is the %um good photo %uh stops %uh for you to take some memories of Singapore.", 
+            "utter_index": 117
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "So you can do that, just walking distance.", 
+            "utter_index": 118
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "From- or just %uh one stop away from your hotel.", 
+            "utter_index": 119
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yes.", 
+            "utter_index": 120
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Alright.", 
+            "utter_index": 121
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So- So that's the Marina Bay?", 
+            "utter_index": 122
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So how many kilometres %uh is that exactly from the Rendezvous Hotel?", 
+            "utter_index": 123
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh walking kilometres, approximately about %uh five kilometres.", 
+            "utter_index": 124
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "So I would think %uh taking the train would be a better idea.", 
+            "utter_index": 125
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Alright.", 
+            "utter_index": 126
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ACK", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "REQ_ALT"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Except for Marina Bay, what else %uh attractions can you recommend for me?", 
+            "utter_index": 127
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ACK", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "REQ_ALT"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh would you want to see %uh just tourist sports?", 
+            "utter_index": 128
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ACK", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "REQ_ALT"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yah, anything that it can be %uh, you know, looking forward to see.", 
+            "utter_index": 129
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ACK", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "REQ_ALT"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay.", 
+            "utter_index": 130
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh okay in around the Merli~ %uh the Marina Bay %uh it's also a wa~ a nice walk because %uh you are just walking around the bay front.", 
+            "utter_index": 131
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh like I said it has interesting skyline, there are some interesting sculptures %uh along the Marina Bay area.", 
+            "utter_index": 132
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh and in the night time, %uh we do have a show that is %um, you don't have to pay for this show, at the Marina Bay front.", 
+            "utter_index": 133
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh it's a laser water show %uh on the Marina Bay itself.", 
+            "utter_index": 134
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "But that only comes on in the night time.", 
+            "utter_index": 135
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "And there is a very interesting museum on Marina Bay as well, it's called the Arts and Science Museum.", 
+            "utter_index": 136
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yah, I also like to acquire on- %uh go to some of your museums.", 
+            "utter_index": 137
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So what is that again?", 
+            "utter_index": 138
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "what's", 
+            "utter_index": 139
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "The Arts and Science Museum.", 
+            "utter_index": 140
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Art and Science Museum, alright.", 
+            "utter_index": 141
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Arts and Science Museum %uh in the Marina Bay, okay so-", 
+            "utter_index": 142
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So- So it's inside the Marina Bay or it's beyond or it's just %uh walking distance from the Marina Bay itself?", 
+            "utter_index": 143
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh it is actually just next door.", 
+            "utter_index": 144
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "The %um building itself is shaped like a lotus flower.", 
+            "utter_index": 145
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, now I'm showing you %uh how this Arts and Science Museum looks like.", 
+            "utter_index": 146
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "it shaped like %uh a lotus flower.", 
+            "utter_index": 147
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, this is the Arts and Science %uh Museum.", 
+            "utter_index": 148
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "So everything dedicated to Arts and Science and of course at certain time, %uh %eh we have special exhibit, alright.", 
+            "utter_index": 149
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "The last exhibit was the %uh Titanic Exhibition.", 
+            "utter_index": 150
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "And this is actually a world-class exhibition.", 
+            "utter_index": 151
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "yah.", 
+            "utter_index": 152
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "And earlier on you mention %uh you also want to do the zoo as well, right?", 
+            "utter_index": 153
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yah, we can also consider %um going to some zoo parks.", 
+            "utter_index": 154
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Alright, the zoo will be located in the Northwest of Singapore.", 
+            "utter_index": 155
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh and in this zoo, you will see our largest collection of the Orang-utan.", 
+            "utter_index": 156
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Well going back to the hotel from the Rendezvous Hotel,", 
+            "utter_index": 157
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes.", 
+            "utter_index": 158
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yah, how many kilometres %uh from the hotel to that zoo?", 
+            "utter_index": 159
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh approximately about twenty kilometres.", 
+            "utter_index": 160
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So should I take the MRT again?", 
+            "utter_index": 161
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes, you will take the MRT from City Hall.", 
+            "utter_index": 162
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "You take the North line and you alight at %uh Ang Mo Kio Station.", 
+            "utter_index": 163
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "And from there, %uh you would take a bus to go", 
+            "utter_index": 164
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Okay.", 
+            "utter_index": 165
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "You will go- yah yes and you take a bus to the %uh zoo.", 
+            "utter_index": 166
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "The Singapore Zoo?", 
+            "utter_index": 167
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes, this is open in the daytime.", 
+            "utter_index": 168
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "In the daytime only?", 
+            "utter_index": 169
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So what time do they usually open?", 
+            "utter_index": 170
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay.", 
+            "utter_index": 171
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes.", 
+            "utter_index": 172
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh the park actually opens at eight A.M. in the morning.", 
+            "utter_index": 173
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "And up to what time?", 
+            "utter_index": 174
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh six P.M.", 
+            "utter_index": 175
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Alright, six P.M. The Singapore Zoo.", 
+            "utter_index": 176
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes, this is the Singapore Zoo and you will see %uh mammals in this zoo.", 
+            "utter_index": 177
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Alright, so %uh like I said %uh lots of %uh is- we have the largest collection of the Orang-utans.", 
+            "utter_index": 178
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh there is a show in the zoo %uh that you can watch.", 
+            "utter_index": 179
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So the show varies from the time of the year or it always frequent the zoo?", 
+            "utter_index": 180
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "They always have some shows there?", 
+            "utter_index": 181
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh, no, it goes on every day.", 
+            "utter_index": 182
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Alright, every day we have this show.", 
+            "utter_index": 183
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh in the morning %uh it will be eleven o'clock.", 
+            "utter_index": 184
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "And in the afternoon it will be four P.M.", 
+            "utter_index": 185
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Alright, my kids will %uh definitely love to see those animals.", 
+            "utter_index": 186
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes, so this is the %uh show which is interesting, alright?", 
+            "utter_index": 187
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "But our show is not like the circus kind of show.", 
+            "utter_index": 188
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "It just %uh shows you, yah, what the animals %uh do, alright, %uh in the wild as well %uh what they do.", 
+            "utter_index": 189
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Alright.", 
+            "utter_index": 190
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yah.", 
+            "utter_index": 191
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Alright, and by the way %uh by taking the MRT train, %uh how much is the %uh usual fare that they %uh- that I need %uh to purchase?", 
+            "utter_index": 192
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "You will buy your ticket from the MRT train station.", 
+            "utter_index": 193
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "We would have a ticket, a few ticket machines.", 
+            "utter_index": 194
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "And %uh you will, they will tell you where- which location you are now at and you just tell them- you just press the button which destination you are going to stop, and the machine will tell you how much to %uh- %uh how much is the fare.", 
+            "utter_index": 195
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh you just have to use Singapore money to purchase your ticket.", 
+            "utter_index": 196
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So how much usu~", 
+            "utter_index": 197
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "The machine will als~ yes, so it all depends on %uh where you're taking from and where you are going to stop.", 
+            "utter_index": 198
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh the price range will range from a dollar forty cents %uh right up to two dollars and twenty cents.", 
+            "utter_index": 199
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "per person.", 
+            "utter_index": 200
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Okay.", 
+            "utter_index": 201
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Dollar and twenty cents.", 
+            "utter_index": 202
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ACK", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "REQ_ALT"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So going back to the Rendezvous Hotel again, %uh is there any more interesting place %uh beyond the vicinity of that hotel?", 
+            "utter_index": 203
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ACK", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "REQ_ALT"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes.", 
+            "utter_index": 204
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, beyond the vicinity of the hotel of course there are shopping areas on Orchard Road %uh and then you walk to the Merlion Park or you take the MRT.", 
+            "utter_index": 205
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh otherwise you can %uh walk to the museum, we have the National Museum out there, the %uh Singapore Arts Museum.", 
+            "utter_index": 206
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "QST", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ANS"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Or do you want to consider doing ethnic places in Singapore?", 
+            "utter_index": 207
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "QST", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ANS"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "%Hm, yes %uh maybe I can consider going to an ethnic place.", 
+            "utter_index": 208
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "QST", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ANS"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh which ethnic place do you want me to recommend?", 
+            "utter_index": 209
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "QST", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ANS"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yes.", 
+            "utter_index": 210
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "QST", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ANS"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh which ethnic place would you want me to recommend?", 
+            "utter_index": 211
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "QST", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ANS"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Anything.", 
+            "utter_index": 212
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "QST", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ANS"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Is it-", 
+            "utter_index": 213
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "QST", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ANS"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yah, anything just beyond, you know, the vicinity of the hotel.", 
+            "utter_index": 214
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, %uh would I be able to introduce %uh you %uh to the Indian quarters?", 
+            "utter_index": 215
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Indian quarters?", 
+            "utter_index": 216
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "A traditional Indian place where the Indians when they came to Singapore, most of them live in this area.", 
+            "utter_index": 217
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "So we have preserved this area and we call it Little India.", 
+            "utter_index": 218
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "%Oh okay, it's like a Chinatown where the- do Chinese lives and this place is the Indian place?", 
+            "utter_index": 219
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes.", 
+            "utter_index": 220
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "So we have another area called Chinatown.", 
+            "utter_index": 221
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "And %uh this other place would be called Little India.", 
+            "utter_index": 222
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "And there is another Malay area call Kampong Glam.", 
+            "utter_index": 223
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Kampong Glam.", 
+            "utter_index": 224
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OTHER"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Malay you means like %uh the Malaysians?", 
+            "utter_index": 225
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OTHER"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yah.", 
+            "utter_index": 226
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OTHER"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh well the Malays in Singapore of course %uh the- some of them were native in Singapore.", 
+            "utter_index": 227
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OTHER"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh but our- some of the Malay ancestors came from the nearby %uh countries of Malaysia, as well as Indonesia.", 
+            "utter_index": 228
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OTHER"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "So we would call %eh and of course %uh, yah, the nearby islands.", 
+            "utter_index": 229
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OTHER"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Generally we call this area the Malay Archipelo.", 
+            "utter_index": 230
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OTHER"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Malay Archipelo, okay.", 
+            "utter_index": 231
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OTHER"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes, so %uh but of course the people here, who are Malay, and if they are locals here, they would have been born here.", 
+            "utter_index": 232
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OTHER"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh most of the people here would be third generation %uh Singaporeans.", 
+            "utter_index": 233
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OTHER"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Their ancestors will probably come from the nearby countries for the Malays.", 
+            "utter_index": 234
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OTHER"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Alright.", 
+            "utter_index": 235
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ_ALT"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So maybe on my second day at Singapore %uh I would prefer to transfer to another hotel.", 
+            "utter_index": 236
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ_ALT"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "%Uh maybe like the first one is on %uh the business district.", 
+            "utter_index": 237
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ_ALT"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Maybe you could %um provide me some information on the province like surroundings?", 
+            "utter_index": 238
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ_ALT"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Like in the city any more.", 
+            "utter_index": 239
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ_ALT"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh, sorry, I don't understand you.", 
+            "utter_index": 240
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ_ALT"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Maybe you could provide additional information like %uh if I will travel or transfer to another hotel, %uh maybe you could provide some suggestion.", 
+            "utter_index": 241
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ_ALT"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Not on the commercial district, but on the somehow provincial ones.", 
+            "utter_index": 242
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ_ALT"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Provincial as in the residential area?", 
+            "utter_index": 243
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ_ALT"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yah, maybe at the residential area.", 
+            "utter_index": 244
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, there is %uh hotel called %uh the Link Hotel.", 
+            "utter_index": 245
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "I- L I N K. And it is located in %uh a residential area, a very old residential area %uh call Tiong Bahru.", 
+            "utter_index": 246
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "It is also a very accessible location, because there is the MRT %uh that is located %um just about less than ten minutes' walk to the MRT.", 
+            "utter_index": 247
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So the M- So the MRT passes by this area also?", 
+            "utter_index": 248
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes, about ten minutes' walk from this hotel.", 
+            "utter_index": 249
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "So or if you look at the %uh photograph?", 
+            "utter_index": 250
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "The first photograph of the front facade of the hotel, %uh this was originally residential area.", 
+            "utter_index": 251
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh it's a building that is originally residential but they have now been converted to a hotel.", 
+            "utter_index": 252
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "NONE", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Okay, and do you recommend %uh ano- %uh an attraction %uh nearby this hotel?", 
+            "utter_index": 253
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "NONE", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "And what are the rates on this hotel?", 
+            "utter_index": 254
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "SHOPPING", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, the attractions near to this hotel like I mention %uh this is in a residential area.", 
+            "utter_index": 255
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "SHOPPING", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "So you would be %um going to a market, alright, that opens in the morning from %uh seven thirty to twelve o'clock.", 
+            "utter_index": 256
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "SHOPPING", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "So this market is what we call a wet market.", 
+            "utter_index": 257
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "SHOPPING", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh they will sell fish, meat, fruits, vegetable in this market sold.", 
+            "utter_index": 258
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "SHOPPING", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "And you will be meeting a lot of local people %uh when you visit the market.", 
+            "utter_index": 259
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "SHOPPING", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "So it's something I would say interesting %uh because these are not the normal %uh tourist site.", 
+            "utter_index": 260
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "So you get- when you stay in this hotel, you get to interact with a lot of the local because majority of the people that you meet %uh around your hotel area would be local.", 
+            "utter_index": 261
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yah, I think- Okay, so this is not %uh your popular tourist destination in Singapore?", 
+            "utter_index": 262
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh I wouldn't say it's not the normal tourist belt, you know.", 
+            "utter_index": 263
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Because you are %uh located in an area %uh that is very much residential.", 
+            "utter_index": 264
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "But this a nice %uh boutique hotel.", 
+            "utter_index": 265
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Alright, what are the rates in this hotel?", 
+            "utter_index": 266
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, %uh the rates %uh of course again it depending sometimes they do have promotions %uh in %uh certain %uh during certain dates.", 
+            "utter_index": 267
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Alright, but it should be in the range of about two hundred %uh dollars.", 
+            "utter_index": 268
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Per day?", 
+            "utter_index": 269
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Two hundred to-", 
+            "utter_index": 270
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh yes, per day.", 
+            "utter_index": 271
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Per day meaning %uh from let say today it's starts at two o'clock or three o'clock to the next day %uh check out eleven or twelve o'clock the next day.", 
+            "utter_index": 272
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "%Hm, so I'd like to get one of the promotions.", 
+            "utter_index": 273
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes, so %uh again we have to see whether let say if you're going to arrive", 
+            "utter_index": 274
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Because I'm planning to go there by April.", 
+            "utter_index": 275
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "April.", 
+            "utter_index": 276
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, let's see whether there's any promotion in April.", 
+            "utter_index": 277
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh which date are we talking about?", 
+            "utter_index": 278
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Maybe April ten.", 
+            "utter_index": 279
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "April the ten.", 
+            "utter_index": 280
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "April ten to eleven.", 
+            "utter_index": 281
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, right.", 
+            "utter_index": 282
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "We were going to have two adults and one kid.", 
+            "utter_index": 283
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay.", 
+            "utter_index": 284
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Alright, let see.", 
+            "utter_index": 285
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Is there any promotions for this particular period?", 
+            "utter_index": 286
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, this rate is not available here.", 
+            "utter_index": 287
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "%Oh this one %uh the Link Hotel daily set meal promo, from March one to %uh May thirty first.", 
+            "utter_index": 288
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes.", 
+            "utter_index": 289
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Would you be able to make it for this date?", 
+            "utter_index": 290
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yah, %uh I can catch up on the date.", 
+            "utter_index": 291
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "And if you could %uh provide the links of that certain hotel.", 
+            "utter_index": 292
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So maybe we can book in advance.", 
+            "utter_index": 293
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh it's just called %uh Link L I N K.", 
+            "utter_index": 294
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Link.", 
+            "utter_index": 295
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Hotel Singapore.", 
+            "utter_index": 296
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Alright.", 
+            "utter_index": 297
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So they %uh allow online booking for this hotel?", 
+            "utter_index": 298
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes, they have %uh online booking for this hotel yes.", 
+            "utter_index": 299
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "So like the promotion, %oh yes they have- %oh no that is the set meal promo for that period of time in May.", 
+            "utter_index": 300
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh, yah for the month of May.", 
+            "utter_index": 301
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Alright.", 
+            "utter_index": 302
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, and %uh we have something quite interesting out there.", 
+            "utter_index": 303
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh over the weekend a lot of people %uh would be bringing out their birds.", 
+            "utter_index": 304
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "The owners-", 
+            "utter_index": 305
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Come again?", 
+            "utter_index": 306
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Birds.", 
+            "utter_index": 307
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Just at the corner of the Link Hotel, you have this like %uh a birds corner.", 
+            "utter_index": 308
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "The owners of the birds, they'll be bringing out their birds in their cages and they", 
+            "utter_index": 309
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yah, so and they will-", 
+            "utter_index": 310
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "%Oh birds, %ah okay.", 
+            "utter_index": 311
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yah, the birds yes.", 
+            "utter_index": 312
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "So %uh the owners will just have a chit chatting session with their friends.", 
+            "utter_index": 313
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "And the birds gets to meet their friends as well.", 
+            "utter_index": 314
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "So it's something a little bit unusual.", 
+            "utter_index": 315
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh again you don't see in the mainstream kind of %uh tourist area, but you get to see this in our housing state.", 
+            "utter_index": 316
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yes.", 
+            "utter_index": 317
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Or residential area.", 
+            "utter_index": 318
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "And that is somehow %uh different.", 
+            "utter_index": 319
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay.", 
+            "utter_index": 320
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes, it's a different experience for %uh the bird corners.", 
+            "utter_index": 321
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "SHOPPING", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "And %uh also %uh the market, you know, pay a visit to our market.", 
+            "utter_index": 322
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "SHOPPING", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Again it's a different experience altogether.", 
+            "utter_index": 323
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "FOOD", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "And for food wise, %uh just above the market, there is %uh open-air- not open-air, it's a non-air-condition food court.", 
+            "utter_index": 324
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "So you can have your breakfast over there, you can have lunch or you can have dinner.", 
+            "utter_index": 325
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yes.", 
+            "utter_index": 326
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Alright.", 
+            "utter_index": 327
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "FOOD", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "That sound very nice.", 
+            "utter_index": 328
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "QST", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ANS"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "So any other thing %uh that you like to do or your son would like to do?", 
+            "utter_index": 329
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "QST", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ANS"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "%Uh not at this time.", 
+            "utter_index": 330
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "QST", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ANS"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "%Uh maybe on the April time when we go there %uh we can %uh go directly on your recommended place.", 
+            "utter_index": 331
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "ITINERARY"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "And we're considering going back around December this year also.", 
+            "utter_index": 332
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "ITINERARY"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So maybe would- we can stay on a different place.", 
+            "utter_index": 333
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "ITINERARY"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes, if you are coming in December, again it's something different.", 
+            "utter_index": 334
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh then I would recommend that you stay right in the heart of Orchard Road.", 
+            "utter_index": 335
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh because in December, we light up the whole street of Orchard Road to the Marina %uh area.", 
+            "utter_index": 336
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "So the street looks %uh like a wonderland.", 
+            "utter_index": 337
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh and the buildings, the hotels, will be also specially decorated for Christmas.", 
+            "utter_index": 338
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "NONE"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "So it's wonderful time to visit in December.", 
+            "utter_index": 339
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "The Orchard Road, so any recommendations there if we might consider going back?", 
+            "utter_index": 340
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, you can stay at the Elizabeth Hotel.", 
+            "utter_index": 341
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "That is just ten minutes' walk up to the Orchard Road area.", 
+            "utter_index": 342
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, Elizabeth Hotel.", 
+            "utter_index": 343
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Elizabeth Hotel, so can you please show us, show me.", 
+            "utter_index": 344
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yah.", 
+            "utter_index": 345
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Again it's not like %uh that big a hotel.", 
+            "utter_index": 346
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "And it's-", 
+            "utter_index": 347
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So the rates, yes.", 
+            "utter_index": 348
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So the rates here are %um still %uh affordable?", 
+            "utter_index": 349
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes the rates are still affordable.", 
+            "utter_index": 350
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, I'm showing you Elizabeth Hotel now.", 
+            "utter_index": 351
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, it still in the price range of about two hundred.", 
+            "utter_index": 352
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "But it is a nice %uh small hotel %uh not that big hotel and it just walk ten minutes or less, %uh to the main %uh Orchard Road shopping area.", 
+            "utter_index": 353
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, so this is the Elizabeth Hotel and do you want me to show you %uh the Christmas time, how does the street look like?", 
+            "utter_index": 354
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yes, I would like to see that.", 
+            "utter_index": 355
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, I'm gonna show you %uh the Christmas light-up %uh in %uh last year.", 
+            "utter_index": 356
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, this is how %uh the street %uh looks like.", 
+            "utter_index": 357
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "By the way is the Orchard Road accessible from the first hotel that you've mention the Rendezvous Hotel?", 
+            "utter_index": 358
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "If like we could travel from the Rendezvous to the Orchard place?", 
+            "utter_index": 359
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes, you can, it's just %uh a walk of about ten minutes and you are in %uh Orchard Road.", 
+            "utter_index": 360
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Alright, it doesn't- that is so near.", 
+            "utter_index": 361
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "TRANSPORTATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes.", 
+            "utter_index": 362
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "So it's also %uh interesting place %uh to stay and you can see this is the last year, the Christmas light-up in Orchard Road.", 
+            "utter_index": 363
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "It looks like a Christmas wonderland, isn't it?", 
+            "utter_index": 364
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yah.", 
+            "utter_index": 365
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So the whole place lights up with Christmas lights?", 
+            "utter_index": 366
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes, and every year the theme will change.", 
+            "utter_index": 367
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "So %uh this year two zero one two would be different from last year.", 
+            "utter_index": 368
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Alright.", 
+            "utter_index": 369
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "So last year would be %uh all the %uh winter kind of %uh feeling.", 
+            "utter_index": 370
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh this year will be different theme and it's- the light up stretches from the beginning of Orchard Road right up to the Marina area.", 
+            "utter_index": 371
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh it's a pretty long stretch of road that is lighted up.", 
+            "utter_index": 372
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So the whole commercial district is kinda connected to one another?", 
+            "utter_index": 373
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes, just one straight road down.", 
+            "utter_index": 374
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh Orchard Road is a pretty straight road all the way down to the Marina Square.", 
+            "utter_index": 375
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So the Rendezvous Hotel is on that vicinity also, so we can walk around the area and get to- get a chance to %uh come by along the Orchard Road.", 
+            "utter_index": 376
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes.", 
+            "utter_index": 377
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes, correct.", 
+            "utter_index": 378
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ACCOMMODATION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "You are somewhere between- Rendezvous is somewhere between Orchard and the Marina Square area.", 
+            "utter_index": 379
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Alright, but we cannot see Christmas lights on April.", 
+            "utter_index": 380
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh yes, no Christmas lights in April.", 
+            "utter_index": 381
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Only in December.", 
+            "utter_index": 382
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "All- right.", 
+            "utter_index": 383
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "%Uh I think that's all.", 
+            "utter_index": 384
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "%Uh thank you for %um the suggestions.", 
+            "utter_index": 385
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OTHER"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "And I'm glad that now, you could show me around Singapore and %uh -", 
+            "utter_index": 386
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OTHER"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Are you sure you %um have %uh most of the information that you need?", 
+            "utter_index": 387
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OTHER"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "%Oh basically that's all I need.", 
+            "utter_index": 388
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OTHER"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "%uh I need hotel %uh suite rates, restaurants, %uh nearby attractions, interesting places.", 
+            "utter_index": 389
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OTHER"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "%Uh one last thing though %uh except- %uh aside from those things %uh, what can you recommend more %uh if I'd like to you know, go back to Singapore on a yearly basis?", 
+            "utter_index": 390
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OTHER"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yearly basis?", 
+            "utter_index": 391
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "OTHER"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yah.", 
+            "utter_index": 392
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Then I would recommend that you spend %uh more time %uh exploring the area.", 
+            "utter_index": 393
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "And of course we have a lot more other interesting museums for example war museums in Singapore, we have %uh nice parks %uh Wetland Parks, if you like something and you get wet.", 
+            "utter_index": 394
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Specially for your kids, we have WildWest, %uh wet and wild %uh in the Eastern part of Singapore.", 
+            "utter_index": 395
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "And we have recently also open-up in the Eastern part of Singapore Northeast, %um a very interesting park %uh at the %uh Pasir Ris %uh area.", 
+            "utter_index": 396
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "So these are parks which %uh again a lot more locals would be visiting.", 
+            "utter_index": 397
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh they are usually located right next to the %uh river area.", 
+            "utter_index": 398
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So this %uh establishments are just newly opened?", 
+            "utter_index": 399
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh not all are newly open, some are the older ones.", 
+            "utter_index": 400
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh but our latest one would be the one at Pasir Ris.", 
+            "utter_index": 401
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Par series?", 
+            "utter_index": 402
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes, it is %um on the East- Northeast of Singapore.", 
+            "utter_index": 403
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "RECOMMEND", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Northeast side.", 
+            "utter_index": 404
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "If you mind can you %uh please show me that one?", 
+            "utter_index": 405
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Sure.", 
+            "utter_index": 406
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Pasir Ris, alright.", 
+            "utter_index": 407
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "REQ"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yah.", 
+            "utter_index": 408
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So it's a park actually?", 
+            "utter_index": 409
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes, it's a park %uh nice to stroll around in the evening, %uh morning.", 
+            "utter_index": 410
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh we have like %uh %uh mangrove area.", 
+            "utter_index": 411
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "so it's more like a wetland place?", 
+            "utter_index": 412
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh not just wetland, %uh you can see this is the town park?", 
+            "utter_index": 413
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay.", 
+            "utter_index": 414
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So there's a swimming complex in there.", 
+            "utter_index": 415
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "%Uh this is not meant for swimming, it's just a park.", 
+            "utter_index": 416
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "But it's just a good scenery.", 
+            "utter_index": 417
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "See, this is very nice to walk around, there are broad walk for you to walk.", 
+            "utter_index": 418
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "ANS", 
+                "initiativity": "TOURIST", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "QST"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Lots of greenery.", 
+            "utter_index": 419
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "B", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, so this is %uh- and we have interesting parks all over the %uh- all over Singapore, alright?", 
+            "utter_index": 420
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "So you could see %uh a lot of the areas, the residential areas, we have one of this park so, %uh you get to see greenery, not just %uh buildings and not just shops in Singapore.", 
+            "utter_index": 421
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Alright.", 
+            "utter_index": 422
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "So this map is the whole of Singapore?", 
+            "utter_index": 423
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yah, this is a map of Singapore, okay, and we have like if you look at the %uh parameter, %uh most of this we have some parks out there.", 
+            "utter_index": 424
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "You could see %uh the shaded area on the %uh right-hand corner?", 
+            "utter_index": 425
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "that's Pasir Ris Park.", 
+            "utter_index": 426
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Alright.", 
+            "utter_index": 427
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Alright.", 
+            "utter_index": 428
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "%Oh so it's beside the Changi Airport.", 
+            "utter_index": 429
+        }, 
+        {
+            "segment_info": {
+                "guide_act": "EXPLAIN", 
+                "initiativity": "GUIDE", 
+                "target_bio": "I", 
+                "topic": "ATTRACTION", 
+                "tourist_act": "ACK"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes, correct.", 
+            "utter_index": 430
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "CLOSING"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yah, %uh Lynnette.", 
+            "utter_index": 431
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "CLOSING"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes.", 
+            "utter_index": 432
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "CLOSING"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yup, thank you for time.", 
+            "utter_index": 433
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "CLOSING"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "%Uh I know %uh I can thank you for that %uh- I already got, you know, the relevant information from Singapore so maybe on April I can consider going to the place that you've mention.", 
+            "utter_index": 434
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "CLOSING"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Yes, sure.", 
+            "utter_index": 435
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "CLOSING"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "So we will hope to see you soon.", 
+            "utter_index": 436
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "CLOSING"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yah.", 
+            "utter_index": 437
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "CLOSING"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Alright, thanks for calling.", 
+            "utter_index": 438
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "CLOSING"
+            }, 
+            "speaker": "Tourist", 
+            "transcript": "Yup, thank you.", 
+            "utter_index": 439
+        }, 
+        {
+            "segment_info": {
+                "target_bio": "O", 
+                "topic": "CLOSING"
+            }, 
+            "speaker": "Guide", 
+            "transcript": "Okay, bye.", 
+            "utter_index": 440
+        }
+    ]
+}
