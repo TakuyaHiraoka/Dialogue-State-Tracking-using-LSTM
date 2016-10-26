@@ -87,12 +87,12 @@ In order to append new feature, we need implement following part in "DSTC4\dstc4
 詳細や追記例はソースコードの該当部を参照されたい。
 -->
 
+<!-- 
 ## Upload to CodaLab (DSTC4 competition)
 
-<!-- 
 [トラッカーの評価]を行って作成された、baseline_dev.jsonをanswer.jsonにリネームする。そして、このファイルをzipに圧縮する。最後にzipファイルを以下のサイトに行って提出する。
 https://www.codalab.org/competitions/4971#participate.
--->>
+-->
 
 
 ## Tips
