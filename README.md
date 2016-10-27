@@ -7,11 +7,13 @@ DSTracker4DSTC4
 ## Overview
 Dialogue state tracker for [DSTC4](http://www.colips.org/workshop/dstc4/)
 
+<!-- 
 [DSTC4](http://www.colips.org/workshop/dstc4/)用の対話状態追跡器
+-->
 
 ## Description
 DSTracker4DSTC4 is a dialogue state tracker for DSTC4, written in Python. 
-This tracker is based on Long-shot term memory, and estimates dialogue states from an input utterance and its past history.
+This tracker is based on Long-shot term memory, and estimates dialogue states from an input utterance and past dialogue history.
 This program 1) constructs trackers from training data, and 2) evaluates these trackers. 
 
 <!-- 
@@ -27,7 +29,7 @@ DSTC4フォルダのmain.pyを実行
 
 ## Requirement
 ### Mandatory
-* Dialogue data whose form follows the specification of DSTC4. 
+* Dialogue data following the DSTC4 specification 
 * Python (version 2.7.6+)
 * Pybrain and its dependencies (0.3.3+)
 * Scikit-learn (version 1.5+)
