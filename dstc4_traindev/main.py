@@ -27,9 +27,9 @@ if __name__ == '__main__':
     #construct d2V  
     isLearnDoc2Vec4LSTM=True
     if isLearnDoc2Vec4LSTM:
-        #LSTMWithBOWTracker.constructDoc2vec(nameDataS2V=["dstc4_train","dstc4_dev"])
+        LSTMWithBOWTracker.constructDoc2vec(nameDataS2V=["dstc4_train","dstc4_dev"])
         #4 test
-        LSTMWithBOWTracker.constructDoc2vec(nameDataS2V=["dstc4_train","dstc4_dev","dstc4_test"])
+        #LSTMWithBOWTracker.constructDoc2vec(nameDataS2V=["dstc4_train","dstc4_dev","dstc4_test"])
     
     
     #Train and Evaluate NaiveEnsembler
