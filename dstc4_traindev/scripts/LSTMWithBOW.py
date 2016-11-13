@@ -238,7 +238,7 @@ class LSTMWithBOWTracker(object):
         #-input dictionry
         dataset=[]
         for pathdat in pathdataset:
-            dataset.append(dataset_walker.dataset_walker(pathdat,dataroot=Pathdataroot,labels=False))
+            dataset.append(dataset_walker.dataset_walker(pathdat,dataroot=Pathdataroot,labels=True))#False))
         #--(sub input vector 1) Class features i.e., Slot and value ratio (Similar to base line)
         index=0
         for topic in self.tagsets.keys():
